@@ -23,6 +23,7 @@ The project demonstrates a complete Data Analytics workflow starting from raw CS
 The final solution enables stakeholders to analyze movie performance, profitability, audience engagement, ratings, genres, production trends, and financial performance through an executive-level dashboard.
 
 This project was developed following industry-standard Business Intelligence practices and demonstrates practical skills required for Data Analyst and Business Intelligence roles.
+
 ---
 # 📸 Dashboard Preview
 
