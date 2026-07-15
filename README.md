@@ -997,9 +997,9 @@ Aspiring Data Analyst | Business Intelligence Developer
 
 # 🤝 Connect With Me
 
-GitHub:
+🔗 LinkedIn:
 
-https://github.com/apex-analytics-solutions
+[➡️ LinkedIn Profile Link Here](https://www.linkedin.com/posts/anees-ur-rehman-7a2245378_dataanalytics-powerbi-python-share-7483122333663256576-GrQh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF1LwioB3xI_yWmNEgXvRvLiyLvBRVfgc_g)
 
 ---
 
