@@ -23,6 +23,14 @@ The project demonstrates a complete Data Analytics workflow starting from raw CS
 The final solution enables stakeholders to analyze movie performance, profitability, audience engagement, ratings, genres, production trends, and financial performance through an executive-level dashboard.
 
 This project was developed following industry-standard Business Intelligence practices and demonstrates practical skills required for Data Analyst and Business Intelligence roles.
+---
+# 📸 Dashboard Preview
+
+The final Executive Dashboard provides an interactive view of movie industry performance.
+
+Users can explore financial metrics, audience behavior, genre performance, and historical trends through dynamic visuals and filters.
+
+![TMDB Movie Analytics Dashboard](images/Dashboard.png)
 
 ---
 
@@ -781,13 +789,6 @@ Use popularity, ratings, and voting patterns to understand audience preferences.
 ### 5. ROI-Focused Decisions
 
 Prioritize projects with strong profitability potential rather than only focusing on revenue.
-# 📸 Dashboard Preview
-
-The final Executive Dashboard provides an interactive view of movie industry performance.
-
-Users can explore financial metrics, audience behavior, genre performance, and historical trends through dynamic visuals and filters.
-
-![TMDB Movie Analytics Dashboard](images/Dashboard.png)
 
 ---
 
